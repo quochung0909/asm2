@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Asm2Application<asm2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.nqh.asm2.Asm2Application",
+            "projectName": "asm2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
